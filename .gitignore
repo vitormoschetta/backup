@@ -4,3 +4,4 @@
 # Arquivos criptografados
 *.gpg
 *.tar.gz.gpg
+.pre-commit-config.yaml
