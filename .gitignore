@@ -1,0 +1,6 @@
+# Ignorar todas as pastas
+*/
+
+# Arquivos criptografados
+*.gpg
+*.tar.gz.gpg
