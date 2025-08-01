@@ -4,7 +4,7 @@
 brew install gnupg
 
 ## Baixar script
-git clone https://github.com/lucas-santos-dev/backup-restore-folders.git
+git clone git@github.com:vitormoschetta/backup.git
 
 ## Dar permissão de execução
 chmod +x backup.sh restore.sh
